@@ -16,7 +16,7 @@
 
       setTimeout(() => {
         status.style.color = '#79d279';
-        status.textContent = 'Message sent successfully! I will get back to you soon.';
+        status.textContent = 'Message was sent successfully! I will get back to you soon.';
         form.reset();
       }, 1500);
     });
